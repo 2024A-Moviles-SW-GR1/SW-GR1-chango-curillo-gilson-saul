@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "473673694079",
+    "project_id": "gschc-swgr1-2024a-d043d",
+    "storage_bucket": "gschc-swgr1-2024a-d043d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473673694079:android:1b2418f9c1e8c43773b84a",
+        "android_client_info": {
+          "package_name": "com.example.a2024aswgr1gschc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8vrRu7Hq7e616uH4Qn32a9Evy2oiHwKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="saludo">Hola Mundo</string>
+    <string name="saludoPrueba">Hola Saul</string>
+    <string name="saludoPruebaUno">Soy Saul</string>
+</resources>
