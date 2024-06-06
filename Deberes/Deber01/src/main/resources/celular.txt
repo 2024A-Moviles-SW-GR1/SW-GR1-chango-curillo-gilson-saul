@@ -1,0 +1,5 @@
+Samsung,Galaxy S21,2021,799.99,true
+Apple,iPhone 12,2020,999.99,true
+Xiaomi,Mi 11,2024,200.0,true
+Xiaomi,Readmi Note,2025,500.0,true
+Xiaomi,Readmi Note 11,2022,300.0,true
