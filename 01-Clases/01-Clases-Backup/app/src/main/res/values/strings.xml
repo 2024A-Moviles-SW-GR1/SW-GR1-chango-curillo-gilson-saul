@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">2024ASwGr1GSCH</string>
+    <string name="saludo">HELLO</string>
+    <string-array name="string_array_opciones">
+        <item>Lunes</item>
+        <item>Martes</item>
+        <item>Miercoles</item>
+    </string-array>
+    <string name="title_activity_ggoole_maps_inicio">GGooleMapsInicio</string>
+</resources>
